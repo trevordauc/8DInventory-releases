@@ -1,0 +1,7 @@
+﻿{
+  "packageId": "com.eightdcreations.inventory",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/trevordauc/8DInventory-releases/releases/download/android-1.0.1/8DInventory-1.0.1.apk",
+  "notes": "Removes the floating Update app chip and the up-to-date toast. Settings → Check for updates still runs the native APK check."
+}
