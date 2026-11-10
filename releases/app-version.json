@@ -1,8 +1,8 @@
-﻿{
+{
   "packageId": "com.eightdcreations.inventory",
-  "versionCode": 3,
-  "versionName": "1.4.13",
-  "webVersion": "1.4.13",
-  "apkUrl": "https://github.com/trevordauc/8DInventory-releases/releases/download/android-1.4.13-b3/8DInventory-1.4.13-b3.apk",
-  "notes": "Settings and header keep the live web app version. Android build 3 is the APK counter used for updates."
+  "versionCode": 4,
+  "versionName": "1.5.68",
+  "webVersion": "1.5.68",
+  "apkUrl": "https://github.com/trevordauc/8DInventory-releases/releases/download/android-1.5.68-b4/8DInventory-1.5.68-b4.apk",
+  "notes": "New 8D duck app icon (yellow badge on dark circle). Android build 4 is the APK counter used for updates."
 }
